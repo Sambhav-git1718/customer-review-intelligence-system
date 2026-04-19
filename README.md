@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This repository contains the source code and documentation for the **Customer Review Intelligence System**, an end-to-end full-stack web application designed to ingest raw e-commerce product reviews, perform Natural Language Processing (NLP)-based sentiment analysis, and present actionable insights through an interactive analytics dashboard.
+This repository contains the source code and documentation for the **Customer Review Intelligence System**, an end-to-end full-stack web application designed to ingest raw e-commerce product reviews, perform Natural Language Processing (NLP)-based sentiment analysis, and present actionable insights through an interactive analytics platform.
 
 The system processes a dataset of **1,464 Amazon product reviews** (Charging Cables & Electronics Accessories).
 
@@ -96,16 +96,45 @@ http://localhost:5000
 ## 📂 Project Structure
 
 ```text
-customer-review-system/
+customer-review-intelligence-system/
 ├── app.py
 ├── reviews.csv
 ├── requirements.txt
 ├── templates/
 │   └── index.html
-└── static/
-    ├── style.css
-    └── script.js
+├── static/
+│   ├── style.css
+│   └── script.js
+├── dashboard.png
+├── datatable.png
+├── datatable_filter.png
+├── negative_filter.png
+├── insights.png
 ```
+
+---
+
+## 📸 Screenshots
+
+### 📊 Dashboard
+
+![Dashboard](./dashboard.png)
+
+### 📋 Data Table
+
+![Data Table](./datatable.png)
+
+### 🔍 Filtered Data
+
+![Filtered Table](./datatable_filter.png)
+
+### ❌ Negative Reviews
+
+![Negative Filter](./negative_filter.png)
+
+### 💡 Insights
+
+![Insights](./insights.png)
 
 ---
 
@@ -127,3 +156,8 @@ KIIT University
 
 ---
 
+## ⭐ Notes
+
+* Ensure repository is **public**
+* Upload all required project files
+* Screenshots must be visible in README
