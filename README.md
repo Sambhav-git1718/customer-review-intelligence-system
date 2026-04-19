@@ -151,8 +151,7 @@ customer-review-intelligence-system/
 ## 👨‍💻 Author
 
 **Sambhav Jha**
-Roll No: 2306343
-KIIT University
+
 
 ---
 
