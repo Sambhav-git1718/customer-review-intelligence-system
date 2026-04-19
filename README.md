@@ -156,8 +156,4 @@ KIIT University
 
 ---
 
-## ⭐ Notes
 
-* Ensure repository is **public**
-* Upload all required project files
-* Screenshots must be visible in README
